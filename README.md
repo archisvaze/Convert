@@ -1,5 +1,5 @@
 ﻿# Convert
-Download convert.exe
+Download Number-String.exe from Releases.
 
 This Program converts a Number into String or vice-versa. The string simply represents the numbers in words.
 
