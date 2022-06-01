@@ -1,7 +1,9 @@
 ﻿# Convert
 Download Number-String.exe from Releases.
 
-This Program converts a Number into String or vice-versa. The string simply represents the numbers in words.  
+This Program converts a Number into String or vice-versa. The string simply represents the numbers in words.
+
+
 ![Screenshot](https://raw.githubusercontent.com/archisvaze/Number-to-String/master/Screenshot%20(2).png)  
 
 Examples:
